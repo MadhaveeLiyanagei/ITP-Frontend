@@ -31,7 +31,7 @@ class ListBuyerOrdersComponent extends Component {
                                 <th>Product ID</th>
                                 <th>Quantity</th>
                                 <th>Total Amount</th>
-                                <th>Date</th>
+                                <th>Ordered Date</th>
                                 <th>Category</th>
                                 <th>Actions</th>
                             </tr>
